@@ -47,6 +47,7 @@ const wfstPointOptions = {
   typeNS: 'test',
   typeName: 'test',
   maxFeatures: 90,
+  vendorOptions: null,
   opacity: 1,
   style: function(layer) {
     // you can use if statemt etc
